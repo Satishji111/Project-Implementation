@@ -6,3 +6,6 @@ git add abc.txt
 
 # to add all files in given folder
 git add .
+
+#To commit the file
+git commit -m "Message"
